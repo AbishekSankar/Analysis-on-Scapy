@@ -107,7 +107,7 @@ Scapy provides us with a lot more functionalities than any other tool or module.
 
 ## What more can be done in this project?
 
-- GUI Support:
+- GUI Support:<br/>
   &emsp;&emsp; Scapy doesn't have a graphical user interface. While most of its competitors, such as Wireshark and others, have GUI and web-based applications, scapy only has a command-line interpreter, which is a disadvantage for newcomers learning ethical hacking or other network-related topics. Analyzing and deriving information from packets and visually displaying it is far preferable to viewing it from the command line.
 
 - Documentation:
